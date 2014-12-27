@@ -93,7 +93,7 @@ OBAMA: And now, Josh has given me the who's-been-naughty-and-who's-been-nice-lis
 I'm gonna use it to take some questions.  And we're gonna start with Carrie
 Brown of Politico.
 
-Reporter: Thank you Mr. President.  I'll start with North Korea since that seems
+REPORTER: Thank you Mr. President.  I'll start with North Korea since that seems
 to be the biggest topic today.  What does a proportional response look like to
 the Sony hack.  Did Sony make the right decision in pulling the movie, or does
 that set a dangerous precedent when faced with this kind of situation.
@@ -142,7 +142,7 @@ the possibility of a terrorist attack.  Any more than Boston didn't run its
 marathon this year because of the possibility of somebody might try to cause
 harm.  So let's not get into that way of doing business.
 
-Reporter: Would you consider- will you take any symbolic steps, like, watching
+REPORTER: Would you consider- will you take any symbolic steps, like, watching
 the movie yourself?  Or doing some sort of screening here that-
 
 OBAMA: I've got a long list of movies that I'm gonna be watching.  I never release my
@@ -171,17 +171,17 @@ movies.  This is gonna be affecting our entire enconomy in ways that are
 extraordinarily significant.  And by the way, I hear you're moving to Europe.
 Where are you gonna be?
 
-Reporter: Brussels.
+REPORTER: Brussels.
 
 OBAMA: Brussels?
 
-Reporter: Helping Politico start a new publication.
+REPORTER: Helping Politico start a new publication.
 
 OBAMA: Well congratulations.  Well I think there's no doubt that what Belgium needs is
 a version of Politico. [laughs]  The waffles are delicious there by the way.
 Cheryl Bowman?  You've been naughty.  Cheryl, go ahead.
 
-Reporter: Thank you Mr. President.  Looking ahead to your work with Congress
+REPORTER: Thank you Mr. President.  Looking ahead to your work with Congress
 next year you mentioned as an area of possible compromise: tax-reform.  And so
 I'm wondering do you see a Republican Congress as presenting a better
 opportunity for actually getting tax reform next year.  Will you be putting out
@@ -225,7 +225,7 @@ to see us work on that issue as well.  Historically obviously, infrastructure
 has not been a Democratic or Republican issue, and I'd like to see if we can
 return to that tradition.  Julie Pace.
 
-Reporter: Thank you Mr. President.  I want to ask about Cuba.  What would you
+REPORTER: Thank you Mr. President.  I want to ask about Cuba.  What would you
 say to dissidents or democracy advocates inside Cuba who fear that the policy
 changes you announced this week would give the Castro regime economic benefits
 without having to address human rights or their politcal system.  When your
@@ -256,7 +256,7 @@ part of the Cuban people.  I think it'll happen in fits and starts.  But through
 engagement we have a better chance of bringing about change than we would have
 otherwise.
 
-Reporter:  Do you have a goal for where you see Cuba being at the end of your
+REPORTER:  Do you have a goal for where you see Cuba being at the end of your
 presidency?
 
 OBAMA: I think it'd be unrealistic for me to map out exactly where Cuba will be.
@@ -269,25 +269,25 @@ specific.  It could happen fast, it could happen slower than I'd like.  But it's
 gonna happen.  I think this change in policy is gonna advance them.  Leslie
 Clarke?
 
-Reporter: Thank you Mr. President.  I actually had a number of questions on Cuba
+REPORTER: Thank you Mr. President.  I actually had a number of questions on Cuba
 as well.
 
 OBAMA: Ok.  Do I have to write all these down?  How many are there? [laughs] "A number"
 sounds intimidating.
 
-Reporter: I'll be as quick as I can.  I wanted to see if you got any assurances
+REPORTER: I'll be as quick as I can.  I wanted to see if you got any assurances
 from the Cuban government that it would not revert to the same sort of sabotage
 that it has in the past, when past presidents have made similar overtures to the
 government.
 
 OBAMA: Meaning?  Can you be specific?  What do you mean?
 
-Reporter: When the Clinton administration made some overtures they shot down
+REPORTER: When the Clinton administration made some overtures they shot down
 planes.  They sort of have this pattern of doing provocative....
 
 OBAMA: Ok, so just general provocative activies?
 
-Reporter: I wanted to see what is your knowledge of whether Fidel Castro had any
+REPORTER: I wanted to see what is your knowledge of whether Fidel Castro had any
 role in the talks.  Did you talk [to him] when you talked to president Raul Castro?  Did
 Fidel Castro's name come up?  Did you ask about him, how he's doing?  People
 haven't seen him in awhile.  Given the deep opposition from some Republicans in
@@ -338,7 +338,7 @@ lasted at least twice as long as mine.  Uh, and then I was able to say
 "Obviously it runs in the family".  But that was the only discussion of Fidel
 Castro that we had.  I sorta forgot all of the other questions.
 
-Reporter: I had two more.  How personally involved are you going to get in-
+REPORTER: I had two more.  How personally involved are you going to get in-
 
 OBAMA: With respect to Congress we cannot unilaterally bring down the embargo.  That's
 codified in the Libertad Act, and what I do think is gonna happen though is
@@ -352,7 +352,7 @@ But I don't anticipate that that happens right away.  I think people are gonna
 want to see how does this move forward before there's any serious debate about
 whether or not we would make major shifts in the embargo.  Alright.
 
-Reporter: I wanted to follow on that by asking under what conditions would you
+REPORTER: I wanted to follow on that by asking under what conditions would you
 meet with President Castro in Havannah.  Would you have certain preconditions
 that you would want to see met before doing that?  And on the hack, I know that
 youd said that you're not gonna announce your response, but can you say whether
@@ -372,7 +372,7 @@ visit Cuba and enjoy interacting with the Cuba people, but there's nothing
 specific where we're trying to target some sort of visit.  On my part.  Colleen
 McCain-Nelson?
 
-Reporter: Thank you Mr. President.  You spoke earlier about 2014 being a
+REPORTER: Thank you Mr. President.  You spoke earlier about 2014 being a
 breakthrough year and you ended the year with executive actions on Cuba and
 immigration, and climate change, but you didn't make much progress this year on
 your legislative agenda and some Republican lawmakers have said that they're
@@ -418,7 +418,7 @@ they're going to have to take into account the issues that I care about.  Just
 as I'm going to take into account the issues that they care about.  Alright, I
 think this is going to be our last question.  Juliet Auspren?
 
-Reporter: So one of the first bills that Mitch McConnel said he would send to
+REPORTER: So one of the first bills that Mitch McConnel said he would send to
 you is one that would send to you is one that would authorize construction of
 the Keystone-Excel pipeline.  When you talked baout this in the past you
 minimized the benefits and highlighted some of the risks associated with that
@@ -477,14 +477,14 @@ prices.  But it was never gonna be the answer to lowering gas prices because the
 oil that would be piped through the Keystone Pipeline would go into the world
 market and that's what determines all prices ultimately.
 
-Reporter: In terms of Congress forcing your hand on this is this something where
+REPORTER: In terms of Congress forcing your hand on this is this something where
 you'll clearly say you're not going to let Congress force your hand on whether
 to approve or disapprove this program?
 
 OBAMA: I'll see what they do.  We'll take that up in the New Year.  I'll take one more
 question; April, go ahead.
 
-Reporter: Thank you Mr. President.  Last question.  Six years ago this month I
+REPORTER: Thank you Mr. President.  Last question.  Six years ago this month I
 asked you what was the state of black America in the oval office and you said it
 was the best of times and the worst of times.  You said it was the best of times
 in the sense that there has never been more opportunity for African Americans
